@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3123599339",
+    "project_id": "medlax-30473",
+    "storage_bucket": "medlax-30473.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3123599339:android:0b65105fe7104d8654ebae",
+        "android_client_info": {
+          "package_name": "com.example.medlax"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCDYceAodLgJTjoalHMgMBjbXEfy_zmOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
