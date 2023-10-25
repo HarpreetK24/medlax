@@ -1,3 +1,3 @@
-# medlax
+# Medlax
 
-this is an assignment assigned to me during an intership test
+A flutter based application with features such as Login, Registration, etc to showcase my flutter proficieny.
